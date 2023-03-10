@@ -1,0 +1,8 @@
+Order ID: 4
+Client ID: 5
+Data comanda: 12-05-2022 20:25
+Total: 204
+Produse comandate:
+3-Ingredient Caramel-Pear Galette 
+3-Ingredient Cinnamon-Sugar Twists 
+3-Ingredient Creamy Pumpkin Pasta 

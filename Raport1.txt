@@ -1,0 +1,8 @@
+Comanda ID: 4
+Client ID: 5
+Data comanda: 12-05-2022 20:25
+Total: 204
+Comanda ID: 3
+Client ID: 5
+Data comanda: 12-05-2022 20:25
+Total: 208

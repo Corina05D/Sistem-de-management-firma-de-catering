@@ -1,0 +1,9 @@
+Comanda ID: 5
+Client ID: 6
+Data comanda: 12-05-2022 22:45
+Total: 170
+Produse comandate:
+Chicken and Mushroom Enchiladas 
+Chicken and Mushroom Pie with Phyllo-Parmesan Crust 
+Chili con Carne with Chili Cheddar Shortcakes 
+Chili-Lime Sauce 

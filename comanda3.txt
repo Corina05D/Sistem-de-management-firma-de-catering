@@ -1,0 +1,8 @@
+Order ID: 3
+Client ID: 5
+Data comanda: 12-05-2022 20:25
+Total: 208
+Produse comandate:
+101 Whaler Fish Sandwich 
+1977 Coconut Angel Food Cake 
+1985 Chicken Pie with Biscuit Crust 

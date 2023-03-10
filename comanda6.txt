@@ -1,0 +1,10 @@
+Comanda ID: 6
+Client ID: 6
+Data comanda: 12-05-2022 22:47
+Total: 231
+Produse comandate:
+Ahi Tuna Carpaccio with Basil Pesto Fettuccine and Heirloom Tomatoes 
+Aji Amarillo-Pineapple Salsa 
+All-Purpose Pie Dough 
+All-Year Blueberry Corn Muffins 
+Almond Cakes with Chocolate Passion-Fruit Sauce 
